@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ankit Bisht</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
+<h3 align="center">Aim to be a Software Engineer</h3>
 <img align = "right" alt = "coding" width = "400" src = https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitbisht1317&label=Profile%20views&color=0e75b6&style=flat" alt="ankitbisht1317" /> </p>
 
-- 🔭 I’m currently working on **virtual assistant**
+- 🔭 I’m currently working on **Quiz App**
 
 - 🌱 I’m currently learning **master of computer application**
 

@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitbisht1317&label=Profile%20views&color=0e75b6&style=flat" alt="ankitbisht1317" /> </p>
 
-- 🔭 I’m currently working on **Quiz App**
+- 🔭 I’m currently working on **Freelencing**
 
 - 🌱 I’m currently learning **master of computer application**
 
